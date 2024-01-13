@@ -1,0 +1,1363 @@
+#EXTM3U cache=500 playlist=1 deinterlace=1 url-tvg="http://crimea.iptvportal.ru/jtv2.zip" m3uautoload=1
+
+#EXTINF:-1 group-title="Общий",360
+http://iptv.media-ix.com:8090/telekanal360/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",360 HD
+http://iptv.media-ix.com:8090/telekanal360-hd/mpegts?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Новости",360 Новости HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+
+#EXTINF:-1 group-title="Музыка",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",11 канал Полевской
+http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",12 Канал HD
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Тест",1HD Music TV
+http://91.247.68.229:8000/play/1HD/index.m3u8
+
+#EXTINF:-1 group-title="Общий",2+2 ua
+http://185.235.187.10:8888/play/2plus2/index.m3u8
+
+#EXTINF:-1 group-title="Общий",24 HD ua
+http://185.235.187.10:8888/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",2x2
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",4 канал Екатеринбург
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",НСК
+http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Общий",5 канал
+http://iptv.media-ix.com:8090/pyatiy-kanal/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",555 Hunt Fishing TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",555 Hunt Fishing TV HD
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",6 ТВ Горловка
+http://91.237.3.3:4022/udp/224.2.2.4:10000
+
+#EXTINF:-1 group-title="Региональные",7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+
+#EXTINF:-1 group-title="Общий",7 канал ua
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",8 Канал Европа
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",A21 Network
+https://tv.a21network.ru/stream/37909/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",NM TV
+https://tv.a21network.ru/stream/40650/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://92.100.39.32:2289/play/a08q/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://185.235.187.10:8888/play/a064/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+
+#EXTINF:-1 group-title="Детские",ani
+http://iptv.media-ix.com:8090/ani/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+http://iptv.media-ix.com:8090/zhivaya-priroda-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="http://bezbe.my1.ru/poster/tv.png",BACKUS TV orig
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="http://bezbe.my1.ru/poster/tv.png",BACKUSTV dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Big Planet HD
+http://iptv.media-ix.com:8090/big-planet-hd/index.m3u8
+
+#EXTINF:-1 group-title="Кино",black
+http://iptv.media-ix.com:8090/black/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Музыка",BLACK тр. ua
+http://185.235.187.10:8888/play/gebernia_tv/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",Bridge TV HITS
+http://iptv.media-ix.com:8090/bridge-tv-hits/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Brodilo TV HD
+http://brodilo.tv/channel.php
+
+#EXTINF:-1 group-title="Кино",Cinema
+http://iptv.media-ix.com:8090/cinema/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",Comedy Central ua
+http://185.235.187.10:8888/play/a060/index.m3u8
+
+#EXTINF:-1 group-title="Релакс",Deluxe Lounge HD
+https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://iptv.media-ix.com:8090/discovery-channel/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",E TV HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",Enter Film FUL HD
+http://185.235.187.10:8888/play/a03h/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Espreso TV HD ua
+https://ythls.armelin.one/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
+
+#EXTINF:-1 group-title="Музыка",ETNO TV ua
+http://185.235.187.10:8888/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",EU Music
+http://185.235.187.10:8888/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://92.100.39.32:2289/play/EuropaPlusTV/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://88.135.128.20:7272/mlR5cGNUsvBxcv8
+
+#EXTINF:-1 group-title="Мода",Fashion TV HD
+http://iptv.media-ix.com:8090/fashion-tv-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Fox
+http://moobl.ru/hls/Fox.m3u8
+
+#EXTINF:-1 group-title="Общий",FREEDOM ua
+http://185.235.187.10:8888/play/2x2/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Galaxy
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Познавательные",Galaxy HD
+http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
+
+#EXTINF:-1 group-title="Релакс",HHQ TV HD
+https://maxssw.com:1935/hhq/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",History HD
+http://88.135.128.20:7272/PK41HvJyzlbR8XZ
+
+#EXTINF:-1 group-title="Общий",ICTV
+http://185.235.187.10:8888/play/a037/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",ID DISCOVERY
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",ID Xtra
+http://iptv.media-ix.com:8090/id-xtra/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",ITV ua
+http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",ITV HD ua
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Iнтер HD ua
+http://185.235.187.10:8888/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="Общий",K1 HD ua
+http://149.5.17.34:20041/play/a05m
+
+#EXTINF:-1 group-title="Кино",Kinoliving HD
+http://iptv.media-ix.com:8090/kinoliving-hd/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://707.su/2jU",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="Региональные",Leomax 24 HD
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Media Service Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+http://iptv.media-ix.com:8090/mezzo-live-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Образование",MOSOBR TV 
+http://retc.educom.ru/mosobrtv/tv2/index.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
+http://89.254.128.5:22280/mtv_00/mono.m3u8
+
+#EXTINF:-1 group-title="Музыка",MTV 00s HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21289
+
+#EXTINF:-1 group-title="Музыка",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Музыка",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+
+#EXTINF:-1 group-title="Музыка",Music Box Russia
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Nasa UHD
+http://185.235.187.10:8888/play/a044/index.m3u8?tva*in*ua
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",Next TV
+https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",NOW SERIES HD
+http://185.235.187.10:8888/play/a03o/index.m3u8?tva.org.ua
+
+#EXTINF:-1 group-title="Региональные",OVAA TV HD
+http://tv.tuva.ru/ovaa/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Plan B HD
+http://iptv.media-ix.com:8090/planb/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Red HD
+http://iptv.media-ix.com:8090/sony-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",RTG HD
+http://iptv.media-ix.com:8090/rtg-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",RTД HD
+http://iptv.media-ix.com:8090/rtd-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Sci Fi
+http://iptv.media-ix.com:8090/sony-sci-fi/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Shopping Live
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Кино",Shot TV
+http://iptv.media-ix.com:8090/shot-tv/mpegts?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",СК 1 ua
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",Start Air
+http://iptv.media-ix.com:8090/start-air/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Start World
+http://iptv.media-ix.com:8090/start-world/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",TDM TV - FMC
+http://195.9.195.3:8080/hls/187741.m3u8
+
+#EXTINF:-1 group-title="Познавательные",TLC
+http://iptv.media-ix.com:8090/tlc/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+http://iptv.media-ix.com:8090/travel-channel-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",TV 1000 Русское кино
+http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
+
+#EXTINF:-1 group-title="Тест",TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",TV BRICS HD
+http://origin5.mediacdn.ru/live/brics/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",TV BRICS HD (English)
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общий",TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://e7.pngegg.com/pngimages/581/866/png-clipart-television-channel-streaming-television-high-definition-television-ua-first-television-television-channel-thumbnail.png",TV XXI
+http://iptv.media-ix.com:8090/xxi/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",TV Губерния (Воронеж) HD
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",TVM Channel
+http://origin5.mediacdn.ru/live/tvm/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Ukraine World News ua
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
+
+#EXTINF:-1 group-title="Образовательные",Univer TV
+http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
+
+#EXTINF:-1 group-title="Образовательные",Univer TV HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png",Vevo '70s HD
+https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png",Vevo '80s HD
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png",Vevo '90s HD
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png",Vevo 2010 HD
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png",Vevo 2K HD
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20231024T234723SQUARE.png_20231024234724.png",Vevo Country HD
+https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png",Vevo Hip-Hop HD
+https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231212T214352SQUARE.png_20231212214352.png",Vevo Holiday HD
+https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426SQUARE.png_20230809005426.png",Vevo Latino HD
+https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png",Vevo Pop HD
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png",Vevo R&B HD
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png",Vevo Retro Rock HD
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE (NL) HD
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ",XITE (NL)
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png",XITE 80's Flashback HD
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png",XITE 90's Throwback HD
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20231031T225112SQUARE.png_20231031225113.png",XITE Country Today HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20231024T231905SQUARE.png_20231024231906.png",XITE Country's Finest HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE DE HD
+http://xite-samsung-de.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png",XITE Hits HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png",XITE Icons HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png",XITE Just Chill HD
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png",XITE Nuevo Latino HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png",XITE Only Love HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png",XITE R&B Classic Jams HD
+https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png",XITE Rock On HD
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+
+#EXTINF:-1 group-title="Музыка ТЕСТ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png",XITE Siempre Latino HD
+https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE TV 80s Flashback HD
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE TV 90s Throwback HD
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE TV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE TV Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png?20170424095550",XITE TV Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Мода",World Fashion
+http://iptv.media-ix.com:8090/world-fashion/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Абаза ТВ HD
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Авто 24
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Аист ТВ
+http://tv.streams.baikal-telecom.net/Aist/video.m3u8
+
+#EXTINF:-1 group-title="Региональные",Алмазный край
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+
+#EXTINF:-1 group-title="Региональные",Алмазный край HD
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+
+#EXTINF:-1 group-title="Региональные",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Астрахань.Ru TV HD
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+
+#EXTINF:-1 group-title="Региональные",АТВ HD
+http://hls.atvmedia.ru/atv.m3u8
+
+#EXTINF:-1 group-title="Общий",АТВ Амос
+http://iptv.media-ix.com:8090/alushta-tv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Байкал Универ ТВ HD
+http://stream01.bgu.ru:8081/1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Беларусь 1
+http://86.57.178.105:8421/bel1
+
+#EXTINF:-1 group-title="Общий",Беларусь 24
+http://iptv.media-ix.com:8090/belarus-24/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+
+#EXTINF:-1 group-title="Общий",БІГУДІ ua
+http://149.5.17.34:20041/play/a06h
+
+#EXTINF:-1 group-title="Региональные",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детские",В гостях у сказки HD
+http://iptv.media-ix.com:8090/v-gostyah-u-skazki-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Вестник Надыма
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Витрина ТВ
+http://v4.proofix.ru:80/vitrina-live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Вместе РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Волга HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
+http://iptv.media-ix.com:8090/voprosy-i-otvety/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Восток 24 HD
+http://109.126.27.2:6484/v24/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Восточный Крым 24 HD
+http://iptv.media-ix.com:8090/vostochniy-krym-24/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Город ТВ (Шадринск) HD
+http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
+
+#EXTINF:-1 group-title="Региональные",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+
+#EXTINF:-1 group-title="Региональные",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Дагестан ТВ
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+
+#EXTINF:-1 group-title="Региональные",Дагестан ТВ HD
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Девятая Волна
+http://origin5.mediacdn.ru/live/9volna/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Уникум
+http://iptv.media-ix.com:8090/detskiy/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Дзержинск ТВ HD
+https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Дикий Охота и рыбалка
+http://iptv.media-ix.com:8090/dikiy/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
+http://iptv.media-ix.com:8090/ohota-i-rybalka/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://iptv.media-ix.com:8090/doctor/mpegts?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Познавательные",Домашние животные
+http://iptv.media-ix.com:8090/42/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",Домашний
+http://iptv.media-ix.com:8090/domashniy/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Дорама HD
+http://iptv.media-ix.com:8090/dorama-hd/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://iptv.media-ix.com:8090/drive/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",Евпатория 24
+http://iptv.media-ix.com:8090/evpatoriya-24/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Еврокино
+http://iptv.media-ix.com:8090/evrokino/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",10 канал (Новокузнецк) HD
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Еспресо TV ua
+http://185.235.187.10:8888/play/expreso_tv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://iptv.media-ix.com:8090/zhivaya-planeta/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://iptv.media-ix.com:8090/animal-planet/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Развлекательный",Звезда
+http://iptv.media-ix.com:8090/zvezda/mpegts
+
+#EXTINF:-1 group-title="Региональные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Звезда плюс
+http://iptv.media-ix.com:8090/zvezda-plus/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
+http://iptv.media-ix.com:8090/zdorovoe-tv/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://iptv.media-ix.com:8090/zoopark/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Новости",Известия ТВ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Известия ТВ HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://iptv.media-ix.com:8090/illuzion-plus/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Магас ТВ (Ингушетия) HD 
+http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Индийское кино
+http://185.235.187.10:8888/play/indiyskoe_kino/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Истоки ТВ
+http://istoki.tv:8080/HLS/stream_2.m3u8
+
+#EXTINF:-1 group-title="Познавательные",История
+http://iptv.media-ix.com:8090/istoriya/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",Ізмаіл ТВ ua
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",ІТ3 ua
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",IТ3 HD ua
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",К1 HD ua
+http://185.235.187.10:8888/play/k1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Калейдоскоп ТВ
+http://iptv.media-ix.com:8090/kaleydoskop-tv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Камчатка 1 HD
+http://77.82.82.244/kamchatka1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детские",Карусель
+http://iptv.media-ix.com:8090/karusel/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Кино без границ HD
+http://iptv.media-ix.com:8090/kino-bez-granits-hd/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://iptv.media-ix.com:8090/kinotv-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://iptv.media-ix.com:8090/kinokomediya/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Киномикс
+http://iptv.media-ix.com:8090/kinomiks/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://iptv.media-ix.com:8090/kinopremiera-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://iptv.media-ix.com:8090/kinosvidanie/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Кинохит
+http://iptv.media-ix.com:8090/kinohit/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Колыма Плюс ТВ
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Конный Мир
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",Красная линия
+http://iptv.media-ix.com:8090/krasnaya-liniya/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Красногорск ТВ
+http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Круг (Одеса) ua
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Крым 24 HD
+http://iptv.media-ix.com:8090/krym-24/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Кузбасс 1
+http://rmhkuzbass.ru:8082/10kanal/k24_576/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Кузбасс 1 HD
+http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",ЛДПР.ТВ
+http://iptv.media-ix.com:8090/ldpr/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Легендарный 24 HD
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
+#EXTINF:-1 group-title="Региональные",Лен ТВ 24
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Лен ТВ 24 HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка",М1 ua
+http://185.235.187.10:8888/play/m1/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",М2 ua
+http://185.235.187.10:8888/play/m2/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Магнат
+http://iptv.media-ix.com:8090/magnat/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Мама
+http://iptv.media-ix.com:8090/mama/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://bl.uma.media/live/126866/HLS/6866944_2/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Матч Премьер HD
+http://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://bl.uma.media/live/126868/HLS/6866944_2/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://bl.uma.media/live/132838/HLS/132838_2/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ HD
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_2/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Матч! Планета HD
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3591s.png",Матч! Страна
+http://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2116s.png",Футбол 1 50fps
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="Познавательные",Мега FUL HD ua
+http://185.235.187.10:8888/play/mega/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Медиа 15
+http://185.46.48.18:8080/media15/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Ми-Україна HD ua
+https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Министерство Идей
+http://iptv.media-ix.com:8090/ministerctvo-idey/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Развлекательный",Мир
+http://iptv.media-ix.com:8090/mir/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Мир 24
+http://iptv.media-ix.com:8090/mir24/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",МИР24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Мой Дагестан HD
+http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Москва 24
+http://iptv.media-ix.com:8090/moskva24/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Москва Доверие
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
+http://iptv.media-ix.com:8090/mosfilm/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://iptv.media-ix.com:8090/moya-planeta/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Моя Сихия
+http://185.235.187.10:8888/play/moya_planeta/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",МТВ Волгоград
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка Столица
+http://185.78.112.46:8077/mtv-stolitca/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://iptv.media-ix.com:8090/muzhskoe-kino/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Религия",Муз Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка",Муз-ТВ
+http://iptv.media-ix.com:8090/muz-tv/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",Музыка 2 International
+http://autopilot.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1 group-title="Тест",Музыка Первого
+http://109.239.208.82:80/muz1/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Тест",Мультимания LV
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детские",Мультимузыка
+http://iptv.media-ix.com:8090/multimuzyka/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://iptv.media-ix.com:8090/nauka-20/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Наша Тема HD
+http://live-1.otcnet.ru/nashatema1/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://iptv.media-ix.com:8090/nashe-novoe-kino/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",НВК Саха HD
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24 HD
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",ННТ HD
+http://185.78.112.46:8077/nnttv_hd/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Новый Век HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",НСТ
+http://iptv.media-ix.com:8090/nstv/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Кино",НТВ-Хит HD
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+
+#EXTINF:-1 group-title="Общий",НТН HD ua
+http://185.235.187.10:8888/play/ntn/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",НТС HD (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Региональные",О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",О2 ТВ
+http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Обком ТВ
+http://www.omsk-kprf.ru/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Тест",Оплот
+http://92.242.110.52:9835/udp/238.1.12.11:1234
+
+#EXTINF:-1 group-title="Региональные",ОСН ТВ
+https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ОСН ТВ HD
+https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",ОТВ (Серпухов)
+http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",ОТР
+http://iptv.media-ix.com:8090/otr/mpegts
+
+#EXTINF:-1 group-title="Общий",ОЦЕ ТБ ua
+http://185.235.187.10:8888/play/a039/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Первый канал
+http://iptv.media-ix.com:8090/perviy/mpegts
+
+#EXTINF:-1 group-title="Общий",Первый канал HD
+http://iptv.media-ix.com:8090/perviy-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=f1c23546de6b4b44988e222250a85e58
+
+#EXTINF:-1 group-title="Тест",Первый Космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+
+#EXTINF:-1 group-title="Общий",Первый Крымский
+http://iptv.media-ix.com:8090/perviy-krymskiy/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Первый Крымский HD
+http://iptv.media-ix.com:8090/perviy-krymskiy-hd/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",1 mus
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 group-title="Музыка",1 mus HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный Россия
+http://rtmp.one.by:2200
+
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="Региональные",Первый Областной (Орел)
+http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/480p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru
+
+#EXTINF:-1 group-title="Региональные",Первый Областной HD
+http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru
+
+#EXTINF:-1 group-title="Региональные",Первый Псковский HD
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+http://1tvtula.ru/tula/1tv_low/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Первый Тульский HD
+http://1tvtula.ru/tula/1tv_hi/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Перший автомобільний ua
+http://185.235.187.10:8888/play/1_avtomobil/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Пиксель HD ua
+http://185.235.187.10:8888/play/pixel/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Плюс Плюс
+http://185.235.187.10:8888/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Общий",Полтавское ТВ ua
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Прибой ТВ
+http://185.78.112.46:8077/priboy_tv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Прима ТВ
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Прима ТВ HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",ПРНК
+http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Психология
+http://iptv.media-ix.com:8090/psihologiya21/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",Пятница!
+http://iptv.media-ix.com:8090/pyatnitsa/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Рада HD ua
+http://185.235.187.10:8888/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="Религия",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Раменское ТВ
+https://e10-ll.facecast.net/rtv/1.m3u8
+
+#EXTINF:-1 group-title="Региональные",Раменское ТВ HD
+https://e10-ll.facecast.net/rtv/0.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Регион 29 (Архангельск)
+http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",РЕН ТВ
+http://iptv.media-ix.com:8090/ren-tv/mpegts
+
+#EXTINF:-1 group-title="Региональные",Репортер 73 HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",Ретро
+http://iptv.media-ix.com:8090/retro/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",Россия 1
+http://iptv.media-ix.com:8090/rossiya-1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Россия 1 (Симферополь)
+https://vgtrkregion.cdnvideo.ru/vgtrk/simferopol/russia1sd/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Общий",Россия 1 HD
+http://iptv.media-ix.com:8090/rossiya-1-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=f1c23546de6b4b44988e222250a85e58
+
+#EXTINF:-1 group-title="Общий",Россия 24
+http://iptv.media-ix.com:8090/rossiya-24/mpegts
+
+#EXTINF:-1 group-title="Региональные",Россия 24 (Симферополь)
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Общий",Россия К
+http://iptv.media-ix.com:8090/rossiya-k/mpegts
+
+#EXTINF:-1 group-title="Региональные",Ростов-папа HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",Русская комедия
+http://iptv.media-ix.com:8090/russkaya-komediya/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+http://iptv.media-ix.com:8090/russkiy-bestseller/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://iptv.media-ix.com:8090/russkiy-detektiv/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Русский иллюзион
+http://iptv.media-ix.com:8090/russkiy-illuzion/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Русский роман
+http://iptv.media-ix.com:8090/russkiy-roman/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Русский Север (Вологда)
+http://185.186.142.16/rs/576/s.m3u8
+
+#EXTINF:-1 group-title="Региональные",Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Самара 24 HD
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Самара ГИС
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сампо ТВ
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+
+#EXTINF:-1 group-title="Региональные",Саратов 24 HD
+http://saratov24.tv:80/online/playlist.php
+
+#EXTINF:-1 group-title="Общий",Сарафан
+http://iptv.media-ix.com:8090/sarafan/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Саров 24
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Свое ТВ
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+
+#EXTINF:-1 group-title="Региональные",Свое ТВ HD
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+
+#EXTINF:-1 group-title="Региональные",Русский Север HD
+http://185.186.142.16/rs/1080/s.m3u8
+
+#EXTINF:-1 group-title="Региональные",Север ТВ HD
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",СИ ТВ HD
+http://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24sd.m3u8
+
+#EXTINF:-1 group-title="Региональные",Симферополь 24 HD
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+
+#EXTINF:-1 group-title="Общий",СК1 HD ua
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 1:Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 1:Честный детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 2:Мелодрамы HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 3:Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 3:Тайны HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 4:Радио
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Тест",Смотрим ТВ 4:Радио HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Солнечногорское ТВ
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",Солнце
+http://iptv.media-ix.com:8090/solntse/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Религия",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 group-title="Религия",Спас
+http://iptv.media-ix.com:8090/spas/index.m3u8
+
+#EXTINF:-1 group-title="Общий",СТВ
+http://iptv.media-ix.com:8090/stv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",СТВ (Беларусь) HD
+http://80.94.225.126:8080/STV/mono.m3u8
+
+#EXTINF:-1 group-title="Музыка",Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка",Страна FM ТВ HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",СТРК
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",СТС
+http://iptv.media-ix.com:8090/sts/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",Супергерои
+http://iptv.media-ix.com:8090/supergeroi/mpegts?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Сургут 1
+http://sitv.ru/hls/stv1024.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сургут 1 HD
+http://sitv.ru/hls/stv.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сургут 86
+http://sitv.ru/hls/s861024.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сургут 86 HD
+http://sitv.ru/hls/s86.m3u8
+
+#EXTINF:-1 group-title="Общий",Сфера ТВ ua
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",Т-24
+http://iptv.media-ix.com:8090/tehno-24/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Тамыр
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Региональные",Татарстан 24
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Татарстан 24 HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",ТВ-3
+http://iptv.media-ix.com:8090/tv-3/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ТВ7 (Абакан)
+https://ctv7.ru/live/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ТВК HD
+http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 group-title="Общий",ТВЦ
+http://iptv.media-ix.com:8090/tvc/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ТВЧ (Черноморск) HD
+http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
+#EXTINF:-1 group-title="Кино",Телекафе
+http://iptv.media-ix.com:8090/telekafe/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Телплюс ТВ (Астрахань)
+http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Общий",ТЕТ ua
+http://185.235.187.10:8888/play/a004/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Тивиком (Улан-Удэ) HD
+http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",ТКР (Рязань)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",ТНТ
+http://iptv.media-ix.com:8090/tnt/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательный",ТНТ HD
+http://iptv.media-ix.com:8090/tnt-hd/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Музыка",ТНТ MUSIC
+http://iptv.media-ix.com:8090/tnt-music/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Развлекательный",ТНТ4
+http://iptv.media-ix.com:8090/tnt4/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Региональные",Толк ТВ
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Тосно ТВ
+http://tosnotv.ru/hlsshare/video.m3u8
+
+#EXTINF:-1 group-title="Спорт",Точка Отрыва
+http://109.239.208.82:80/tochka/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ТРК 555 (Алушта)
+http://trk555.tv:8888/live
+
+#EXTINF:-1 group-title="Региональные",ТРК Евразия
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+
+#EXTINF:-1 group-title="Общий",ТРК Круг ua
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Тротек ТВ (Троицк)
+http://trotek.keenetic.pro/play.m3u8
+
+#EXTINF:-1 group-title="Познавательные",ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+
+#EXTINF:-1 group-title="Региональные",Туапсе 24 HD
+http://185.185.69.62:8084/hls/tuapse24.m3u8
+
+#EXTINF:-1 group-title="Региональные",УлПравда ТВ HD
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",универ HD
+http://cdn.universmotri.ru/live/kfu.sdp_1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",универ ТВ
+http://cdn.universmotri.ru/live/kfu.sdp_576p/playlist.m3u8
+
+#EXTINF:-1 group-title="Общий",УНІАН ua
+http://185.235.187.10:8888/play/a00u/index.m3u8?key=iptv*org*ua
+
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://iptv.media-ix.com:8090/usadba/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",Успех
+http://iptv.media-ix.com:8090/uspeh/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Кино",Фантастика HD
+http://hlss.goodgame.ru/hls/187241.m3u8
+
+#EXTINF:-1 group-title="Региональные",Чаваш Ен
+https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общий",Че
+http://iptv.media-ix.com:8090/che/index.m3u8?token1=63c76a7a2fe46d826dd17472948690e0&token2=2f2c42eb3919cf1a2ca4b24c27088316&domain=crimea&key=cr1&token=0efd696e203c44d5b796b8901bc5d2d3
+
+#EXTINF:-1 group-title="Общий",Чорноморське ТВ ua
+http://185.235.187.10:8888/play/a045/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Шансон ТВ
+http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Региональные",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:-1 group-title="Региональные",Эфир ТВ
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_2c28d5412dd75bf975fb951c740a30/hls/1024x576@1272/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24 (Новоуральск)
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+
+#EXTINF:-1 group-title="Общий",Ю
+http://iptv.media-ix.com:8090/you/index.m3u8
+
+#EXTINF:-1 group-title="Общий",Ювелирочка
+http://iptv.media-ix.com:8090/uvelirochka/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",ЮУрГУ ТВ (Челябинск)
+http://tvrlive.susu.ru/1800k/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные",Якутия 24 HD
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
